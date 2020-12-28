@@ -1,0 +1,36 @@
+.main{
+  background-color: rgb(231, 204, 217);
+  width:100%;
+  align-content: center;
+  margin: 1rem;
+}
+
+.cardGrid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}
+
+.cards{
+    border : solid 1px black;
+    width:20rem;
+    height:20rem;
+    text-align: left;
+    padding: 2%;
+    margin : 3%;
+    font-size: 25px;
+    color:gray;
+   display: flex;
+   
+}
+.editTitle{
+ width:100%;
+ position: absolute;
+}
+.cards label{
+  display: grid;
+}
+.editButton{
+  width:30px;
+  height:30px;
+}

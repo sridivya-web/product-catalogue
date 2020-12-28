@@ -1,0 +1,86 @@
+{
+    "Products" : [
+        {
+            "id" : "1",
+            "productname" : "Headsets",
+            "producturl": "https://www.amazon.com/dp/B0756CYWWD/ref=cm_gf_aarg_d_p0_qd0_mnyaFDwylagVsCVPX5M6",
+            "productimage":"https://i.picsum.photos/id/1018/3914/2935.jpg?hmac=3N43cQcvTE8NItexePvXvYBrAoGbRssNMpuvuWlwMKg",
+            "quantity": "2",
+             "price":"$100"
+        },
+        {
+            "id" : "2",
+            "productname" : "Watches",
+            "producturl": "https://www.amazon.com/dp/B0756CYWWD/ref=cm_gf_aarg_d_p0_qd0_mnyaFDwylagVsCVPX5M6",
+            "productimage":"https://i.picsum.photos/id/102/4320/3240.jpg?hmac=ico2KysoswVG8E8r550V_afIWN963F6ygTVrqHeHeRc",
+            "quantity": "5",
+            "price":"$10"
+        },
+        {
+            "id" : "3",
+            "productname" : "Phone",
+            "producturl": "https://www.amazon.com/dp/B0756CYWWD/ref=cm_gf_aarg_d_p0_qd0_mnyaFDwylagVsCVPX5M6",
+            "productimage":"https://i.picsum.photos/id/1018/3914/2935.jpg?hmac=3N43cQcvTE8NItexePvXvYBrAoGbRssNMpuvuWlwMKg",
+            "quantity": "3",
+            "price":"$10"
+        },
+        {
+            "id" : "4",
+            "productname" : "Usb",
+            "producturl": "https://www.amazon.com/dp/B0756CYWWD/ref=cm_gf_aarg_d_p0_qd0_mnyaFDwylagVsCVPX5M6",
+            "productimage":"https://i.picsum.photos/id/102/4320/3240.jpg?hmac=ico2KysoswVG8E8r550V_afIWN963F6ygTVrqHeHeRc",
+            "quantity": "0",
+            "price":"$10"
+        },
+        {
+            "id" : "5",
+            "productname" : "Charger",
+            "producturl": "https://www.amazon.com/dp/B0756CYWWD/ref=cm_gf_aarg_d_p0_qd0_mnyaFDwylagVsCVPX5M6",
+            "productimage":"https://i.picsum.photos/id/1018/3914/2935.jpg?hmac=3N43cQcvTE8NItexePvXvYBrAoGbRssNMpuvuWlwMKg",
+            "quantity": "1",
+            "price":"$10"
+        },
+        {
+            "id" : "6",
+            "productname" : "EarBuds",
+            "producturl": "https://www.amazon.com/dp/B0756CYWWD/ref=cm_gf_aarg_d_p0_qd0_mnyaFDwylagVsCVPX5M6",
+            "productimage":"https://i.picsum.photos/id/102/4320/3240.jpg?hmac=ico2KysoswVG8E8r550V_afIWN963F6ygTVrqHeHeRc",
+            "quantity": "9",
+            "price":"$10"
+        },
+        {
+            "id" : "7",
+            "productname" : "Speakers",
+            "producturl": "https://www.amazon.com/dp/B0756CYWWD/ref=cm_gf_aarg_d_p0_qd0_mnyaFDwylagVsCVPX5M6",
+            "productimage":"https://i.picsum.photos/id/1018/3914/2935.jpg?hmac=3N43cQcvTE8NItexePvXvYBrAoGbRssNMpuvuWlwMKg",
+            "quantity": "5",
+            "price":"$10"
+        },
+        {
+            "id" : "8",
+            "productname" : "Car Mount",
+            "producturl": "https://www.amazon.com/dp/B0756CYWWD/ref=cm_gf_aarg_d_p0_qd0_mnyaFDwylagVsCVPX5M6",
+            "productimage":"https://i.picsum.photos/id/102/4320/3240.jpg?hmac=ico2KysoswVG8E8r550V_afIWN963F6ygTVrqHeHeRc",
+            "quantity": "2",
+            "price":"$10"
+        },
+        {
+            "id" : "9",
+            "productname" : "Phone Case",
+            "producturl": "https://www.amazon.com/dp/B0756CYWWD/ref=cm_gf_aarg_d_p0_qd0_mnyaFDwylagVsCVPX5M6",
+            "productimage":"https://i.picsum.photos/id/1018/3914/2935.jpg?hmac=3N43cQcvTE8NItexePvXvYBrAoGbRssNMpuvuWlwMKg",
+            "quantity": "2",
+            "price":"$10"
+        },
+        {
+            "id" : "10",
+            "productname" : "wireless charge pad",
+            "producturl": "https://www.amazon.com/dp/B0756CYWWD/ref=cm_gf_aarg_d_p0_qd0_mnyaFDwylagVsCVPX5M6",
+            "productimage":"https://i.picsum.photos/id/102/4320/3240.jpg?hmac=ico2KysoswVG8E8r550V_afIWN963F6ygTVrqHeHeRc",
+            "quantity": "2",
+            "price":"$10"
+        }
+        
+        
+    ]
+}
